@@ -6,6 +6,8 @@ program that recognizes hand signs and finger gestures with a simple MLP using t
 https://github.com/UditSharma9999/real-time-hand-gesture-recognition/assets/63443176/706df366-72c3-4627-95f7-c9fe70d1e3c9
 
 
+ **WebSite Link:** https://gamma.app/docs/Hand-Pose-Detection-Enhancing-HumanComputer-Interaction-yrdg61g80p9vbq5?mode=doc
+
 This repository contains the following contents.
 * Sample program
 * Learning data for hand sign recognition and notebook for learning
